@@ -1,6 +1,6 @@
 # Analyzing graduate students data with pandas
 
-The dataset is downloaded by [CDE (California Department of Education).][1]
+The dataset is downloaded from [CDE (California Department of Education).][1]
 
 Initial dataset can be downloaded as a .txt file [here.][3]
 
